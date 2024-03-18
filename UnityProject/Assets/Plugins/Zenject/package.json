@@ -1,8 +1,19 @@
-  
 {
-	"name": "com.svermeulen.extenject",
-	"displayName": "Extenject",
-	"version": "0.0.1",
-	"description": "Dependency Injection Framework for Unity3D",
-	"dependencies": {}
+  "name": "com.ngx.zenject",
+  "displayName": "Zenject",
+  "version": "0.0.1",
+  "description": "Dependency Injection Framework for Unity3D",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "SampleGame1 Beginner",
+      "description": "A simple game that demonstrates the basics of Zenject",
+      "path": "Samples~/SampleGame1 (Beginner)"
+    },
+    {
+      "displayName": "SampleGame2 Advanced",
+      "description": "A more complex game that demonstrates some of the more advanced features of Zenject",
+      "path": "Samples~/SampleGame2 (Advanced)"
+    }
+  ]
 }
