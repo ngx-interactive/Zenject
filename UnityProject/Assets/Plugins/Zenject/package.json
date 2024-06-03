@@ -2,7 +2,8 @@
   "name": "com.ngx.zenject",
   "displayName": "Zenject",
   "version": "0.0.1",
-  "description": "Dependency Injection Framework for Unity3D",
+  "author": "Malcolm MacDonald",
+  "description": "NGX fork of Zenject, a Dependency Injection Framework for Unity3D",
   "dependencies": {},
   "samples": [
     {
@@ -15,5 +16,8 @@
       "description": "A more complex game that demonstrates some of the more advanced features of Zenject",
       "path": "Samples~/SampleGame2 (Advanced)"
     }
-  ]
+  ],
+  "publishConfig": {
+    "registry": "http://ec2-35-90-122-171.us-west-2.compute.amazonaws.com:4873/"
+  }
 }

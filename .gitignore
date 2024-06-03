@@ -18,3 +18,5 @@ project_root_marker
 
 # Added by Mathijs:
 .DS_Store
+.idea
+*/.idea/
