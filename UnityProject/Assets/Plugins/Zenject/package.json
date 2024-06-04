@@ -1,7 +1,7 @@
 {
   "name": "com.ngx.zenject",
   "displayName": "Zenject",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "Malcolm MacDonald",
   "description": "NGX fork of Zenject, a Dependency Injection Framework for Unity3D",
   "dependencies": {},

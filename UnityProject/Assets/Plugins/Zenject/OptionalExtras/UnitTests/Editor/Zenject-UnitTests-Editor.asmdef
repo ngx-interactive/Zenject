@@ -1,10 +1,12 @@
 {
     "name": "Zenject-UnitTests-Editor",
+    "rootNamespace": "",
     "references": [
-        "Zenject",
-        "Zenject-TestFramework",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:a2f2239355369ba4fb6909aeaa41def5",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:5b6ec1214fe8da44796caef1ad5ace33"
     ],
     "includePlatforms": [
         "Editor"
